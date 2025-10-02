@@ -1,6 +1,6 @@
 function Input(props) {
   return (
-    <input
+    <Input
       type={props.type}
       placeholder={props.placeholder}
       className="border border-slate-300 outline-slate-400 px-4 rounded-md"
